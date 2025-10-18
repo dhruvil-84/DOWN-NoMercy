@@ -22,6 +22,7 @@ It helps security students, researchers, and developers test monitoring, packet 
 
 ## Table of Contents
 
+- [Overview](#overview)
 - [Features](#features)
 - [Prerequisites](#prerequisites)
 - [Getting Started](#getting-started)
