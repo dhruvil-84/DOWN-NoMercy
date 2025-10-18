@@ -18,7 +18,7 @@ It helps security students, researchers, and developers test monitoring, packet 
 
 ---
 
-<p align="center"> <img src="./screenshots/logo.png" alt="Logo" width="80%" /> </p>
+<p align="center"> <img src="./screenshots/logo.png" alt="Logo" width="90%" /> </p>
 
 ## Table of Contents
 
